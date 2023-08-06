@@ -10,3 +10,4 @@ base = int(input())
 # вызываем функцию
 draw_triangle(fill, base)
 
+#end
